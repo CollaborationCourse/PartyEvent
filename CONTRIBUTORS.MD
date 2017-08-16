@@ -1,4 +1,5 @@
 # List of Contributors
 [x] Ebillson GRAND JEAN
-[x] Sylvestre Taïna
-
+[x] Sylvestre Taï¿½na
+[x] Keitel JOVIN
+[X] Anne Kerrie LEVEILLE
